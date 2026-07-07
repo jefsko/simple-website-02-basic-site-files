@@ -1,2 +1,5 @@
+# This file gives basic instructions to search engine crawlers.
+# In this simple example, all crawlers are allowed to view the site.
+
 User-agent: *
 Allow: /
